@@ -1,4 +1,5 @@
 streamlit
+--upgrade pip
 tensorflow==2.15.0
 langchain
 langchain_google_genai
